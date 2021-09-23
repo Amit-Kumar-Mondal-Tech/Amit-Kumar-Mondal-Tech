@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mondal</h1>
 <h3 align="center">Aspiring Data Science enthusiastic</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kumar-mondal-tech&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kumar-mondal-tech" /> </p>
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Deep learning**
@@ -19,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-mondal-86715ab6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-mondal-86715ab6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_top_card%3bgm%2bp2fgxqo%2b8qsdalrpcrq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_top_card%3bgm%2bp2fgxqo%2b8qsdalrpcrq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/iamamitmondal201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/iamamitmondal201" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/iamamitmondal2015/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/iamamitmondal2015/profile" height="30" width="40" /></a>
 </p>
